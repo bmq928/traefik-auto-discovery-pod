@@ -1,0 +1,1 @@
+k create configmap service-ingress-per-pod-hooks -n metacontroller --from-file=hooks/
